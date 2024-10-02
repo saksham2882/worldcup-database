@@ -92,7 +92,7 @@ Contributions are welcome! Fork the repository, create a new branch for your fea
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE]() file for more details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](https://github.com/saksham2882/worldcup-database/blob/main/LICENSE) file for more details.
 
 ## Acknowledgements
 
